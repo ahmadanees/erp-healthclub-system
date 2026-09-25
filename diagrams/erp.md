@@ -1,3 +1,4 @@
+```mermaid
 erDiagram
     MEMBERSHIP_PLAN {
         uuid plan_id PK
@@ -163,3 +164,4 @@ erDiagram
     RESOURCE ||--o{ BOOKING : "reserved via"
     INVENTORY_ITEM ||--o{ POS_TRANSACTION : "sold in"
     AUDIT_LOG ||--o| EXPENSE : "logs"
+```
