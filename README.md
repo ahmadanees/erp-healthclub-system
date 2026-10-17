@@ -26,7 +26,7 @@ The client was losing revenue to manual billing errors and missed renewals, had 
 | Artifact | Description |
 |---|---|
 | [Full ERP Specification](documentation/ERP_Specification.pdf) | 16-section end-to-end systems design document: scope, requirements, architecture, data dictionary, workflows, risk register, roadmap, KPIs |
-| [Entity Relationship Diagram](diagrams/erp_erd.png) | Full data model covering all core entities and relationships |
+| [Entity Relationship Diagram](diagrams/erp_erd.md) | Full data model covering all core entities and relationships |
 | [Original Milestone Structure](documentation/Improved_ERP_Milestone_Structure.pdf) | Source planning document defining the phased rollout strategy |
 
 ## System Design Highlights
